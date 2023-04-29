@@ -5,7 +5,7 @@ Status: active <br />
 
 ## Description/Problem Statement
 
-The committee is established to provide community leadership for the Software Carpentry lesson program. 
+The committee is established to provide _community leadership_ for the Software Carpentry lesson program. 
 Committee members represent the interests of the lesson program community, 
 overseeing project strategy and informing the actions of the Core Team and Executive Council as they relate to the lesson program.
 
@@ -30,22 +30,22 @@ Activities of the committee will fall into three categories:
 ## Roles and Responsibilities
 
 - Chair, responsible for:
-    - overall leadership of the committee and advancing its aims and objectives
-    - preparing meeting agendas, sharing agendas with the committee in advance, 
+    - Overall leadership of the committee and advancing its aims and objectives
+    - Preparing meeting agendas, sharing agendas with the committee in advance, 
       setting meeting roles, and approving meeting minutes for publication
-    - serving as the main point of contact for the committee
-    - keeping the committee documentation up to date
-    - producing periodic reports to The Carpentries Executive Council
+    - Serving as the main point of contact for the committee
+    - Keeping the committee documentation up to date
+    - Producing periodic reports to The Carpentries Executive Council
 - Secretary, responsible for:
-    - scheduling meetings and sharing calendar invitations
-    - providing a location for online meetings
-    - preparing meeting minutes and publishing them following approval
+    - Scheduling meetings and sharing calendar invitations
+    - Providing a location for online meetings and managing meeting recordings _Zoom storage?_
+    - Preparing meeting minutes and publishing them following approval
 - Member, responsible for:
-    - notifying Chair of potential agenda items as they arise
-    - reading agenda and other relevant documents sent by Chair prior to meeting
-    - attending and actively participating in regular meetings
-    - participating in asynchronous voting through GitHub as needed.
-    - working with Core Team and community members to implement committee recommendations as needed
+    - Notifying Chair of potential agenda items as they arise
+    - Reading agenda and other relevant documents sent by Chair prior to meeting
+    - Attending and actively participating in regular meetings
+    - Participating in asynchronous voting through GitHub as needed
+    - Working with the Core Team and community members to implement committee recommendations as needed
 
 
 ## Operational Procedures
@@ -58,10 +58,13 @@ and succession planning for officer roles, are detailed in [the Lesson Program G
 **LPGCs please discuss how you want to make decisions, 
 and add details in this section before the charter is submitted to the Executive Council for approval.**
 
+_I suggest we use the RAPID® Bain's tool (to be discussed in the upcoming initial meeting): https://www.bain.com/insights/rapid-tool-to-clarify-decision-accountability/_
+
+
 ### Meetings
 
 Meetings of the Governance Committee are private to members of the committee.
-To raise something for discussion with the committee, send a message to [the TopicBox list][topicbox].
+To raise something for discussion with the committee, send a message to [the TopicBox list][topicbox] _or the committee Slack channel? (to be discussed in the upcoming initial meeting)_.
 
 Minutes of past meetings are available in [the `minutes` directory][minutes] of this repository.
 
