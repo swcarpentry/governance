@@ -10,14 +10,14 @@
 
 ### Relationship between CAC and LPGC
 The boundary of competences between CAC and LPGC needs to be defined, and this relationship should be publicly clarified.
-We could have another rubric for CAC vs LPGC invovement, or we could add a little bit of material on the CAC vs Maintainer rubric, or we could link to our charter.
+We could have another rubric for CAC vs LPGC invovement, or we could add a little bit of material on the CAC vs Maintainer rubric, or we could link to our charter, avoiding redundancy between sources.
 
 We do not entirely understand what is the job of the CAC vs LPGC is. Toby explains that he envisions the CAC having control of lessons and materials, while the LPGC getting involved only at the level of 
 creating new curricula (for example a section for advanced SWC materials, with its own CAC). However, we think a few more detailed aspects might need to be figured out with time.
 We conclude that should meet with the chair or the entire CAC and define together what the boundaries of our respective roles are. Then create a public document detailing them.
 Toby will mention our interest in meeting to the CAC.
 
-Actions: set up a meeting with the CAC chair. Toby will contact them. In that meeting we can determine and draft a rubric.
+Actions: set up a meeting with the CAC chair. Toby will contact them. In that meeting we can determine or draft the relevant document.
 
 ### Website
 We list a few issues with the SWC website. Among others: older look, which is not properly accessible (due eg. to contrast issues); the blog is outdated but is in the front page,
@@ -35,8 +35,9 @@ Actions: Toby has asked the website maintainers if they are ok with us doing thi
 
 ### Lesson Program Governor Handbook
 Toby updates us saying that this will be available very soon and will be on docs.carpentries.org.
+Follow-up action by Toby: pull request to add the LPGC Handbook to docs.carpentries.org - carpentries/docs.carpentries.org#911
 
 ### Define long-term discussions.
-These include our relationship with the Incubator, a review of available curricula, and defining what is especially lacking in our program. We leave this point for later.
+These include our relationship with the Incubator, a review of available curricula, and defining what is especially lacking in our program. Sam mentions qualitative analysis and digital tools for the humanities. We leave this point for later.
 
 We finally define our next meeting date as July 6th, 8am UTC.
