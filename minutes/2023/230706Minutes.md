@@ -1,4 +1,4 @@
-![image](https://github.com/swcarpentry/governance/assets/114887733/7e2f8934-4827-4c99-92a5-e6d20402d939)![image](https://github.com/swcarpentry/governance/assets/114887733/604bb91e-5ca3-495b-9e64-575cc874c9c5)# Minutes July 7th 2023
+# Minutes July 7th 2023
 
 ## Attendees
 - Valentina Hurtado-McCormick
@@ -23,12 +23,12 @@ Toby has published the [LPGC Handbook](https://docs.carpentries.org/topic_folder
 Georgina Pegu is the chair of the SWC CAC and joined us for this meeting. First, we had a Q&A on the role of the CAC.
 In summary, we agreed on the exclusive and shared responsibilities as follows:
 - The CAC is lesson-content-centric, meaning that it has exclusive responsibility for lesson content and materials. 
-**_- The LPGC is program-centric, meaning that it is responsible for broader policy and strategic matters, including the addition of new lessons (brand-new or from the incubator), the replacement of existing ones, or the retirement of unmaintained ones. These curriculum-level decisions must be initiated after reaching a consensus with the CAC and must consider the opinion of the maintainers of the lesson in question._**
+- **_The LPGC is program-centric, meaning that it is responsible for broader policy and strategic matters, including the addition of new lessons (brand-new or from the incubator), the replacement of existing ones, or the retirement of unmaintained ones. These curriculum-level decisions must be initiated after reaching a consensus with the CAC and must consider the opinion of the maintainers of the lesson in question._**
 - The LPGC can request the CAC to consider changes in lessons and coordinate larger updates that do not necessarily respond to changes requested by the Community, whenever there are policy reasons to do so.
 - The CAC can escalate issues to the LPGC when questions cannot be resolved because of their potential impact. For instance, in case the CAC reaches an impasse, needs advice, or would like assistance due to a high workload or other issues that prevent them from working effectively.
 
 **Action**: The phrasing above is subject to the approval of these minutes. Upon approval, the LPGC will send them to the CAC for approval.
-Then, this will be added to the Docs as a part of the existing [CAC issues-based rubric] (https://docs.carpentries.org/topic_folders/lesson_development/cac-consult-rubric.html).
+Then, this will be added to the Docs as a part of the existing [CAC issues-based rubric](https://docs.carpentries.org/topic_folders/lesson_development/cac-consult-rubric.html).
 
 We also decided to consult the Library Carpentry CAC for additional advice on how to deal with the relationship (LC has had a LPGC-like committee for longer), and also on how to lead a formal curriculum audit.
 **Action**: Toby will put us in touch with the LC-CAC. We will try to ask questions by email first and set up a meeting if needed.
