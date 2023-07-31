@@ -25,7 +25,7 @@ In summary, we agreed on the exclusive and shared responsibilities as follows:
 - The CAC is lesson-content-centric, meaning that it has exclusive responsibility for lesson content and materials. 
 - **_The LPGC is program-centric, meaning that it is responsible for broader policy and strategic matters, including the addition of new lessons (brand-new or from the incubator), the replacement of existing ones, or the retirement of unmaintained ones. These curriculum-level decisions must be initiated after reaching a consensus with the CAC and must consider the opinion of the maintainers of the lesson in question._**
 - The LPGC can request the CAC to consider changes in lessons and coordinate larger updates that do not necessarily respond to changes requested by the Community, whenever there are policy reasons to do so.
-- The CAC can escalate issues to the LPGC when questions cannot be resolved because of their potential impact. For instance, in case the CAC reaches an impasse, needs advice, or would like assistance due to a high workload or other issues that prevent them from working effectively.
+- The CAC is welcome to propose retiring/adding lessons and can escalate issues to the LPGC when questions cannot be resolved because of their potential impact. For instance, in case the CAC reaches an impasse, needs advice, or would like assistance due to a high workload or other issues that prevent them from working effectively.
 
 **Action**: The phrasing above is subject to the approval of these minutes. Upon approval, the LPGC will send them to the CAC for approval.
 Then, this will be added to the Docs as a part of the existing [CAC issues-based rubric](https://docs.carpentries.org/topic_folders/lesson_development/cac-consult-rubric.html).
