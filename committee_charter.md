@@ -79,6 +79,6 @@ Toby Hodges, Director of Curriculum
 - Valentina Hurtado-McCormick (Co-chair)
 - Martino Sorbaro (Secretary)
 
-[lpgc-handbook]: FIXME
+[lpgc-handbook]: https://docs.carpentries.org/topic_folders/governance/lesson-program-governors.html
 [minutes]: ./minutes/
 [topicbox]: https://carpentries.topicbox.com/groups/swc-governors/
