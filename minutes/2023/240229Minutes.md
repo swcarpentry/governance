@@ -14,11 +14,11 @@
 - The meeting started with personal introductions, as this was the first meeting of the LPGC incorporating the CAC, namely Menglan.
 - We then summarized the recent activities of the LPGC and CAC:
   - Menglan: in the first year I  was a member, several issues discussed about various lessons, for example about defensive programming in python lesson.
-    I participated based on content, knowing R better than Python. Much less active during the second year. Tobi solicited our help with a project and I was in charge with a section of that.
+    I participated based on content, knowing R better than Python. Much less active during the second year. Toby solicited our help with a project and I was in charge with a section of that.
   - Sam: the LPGC is a new committee, about a year old, formed by myself, Martino and Valentina. The first part was figuring out what to do and how to work with the CAC. We also audited the lessons.
     We were planning to also work with the incubator looking for new lessons, checking on the Matlab one that is not maintained. We also worked on the website.
 - We worked on finalizing the [blog post](https://github.com/swcarpentry/governance/wiki/LPGC-response-and-SWC-governance-changes) where we will announce the merger of the two committees.
-  We approve its current state and agree that Martino will seek Valentina's approval, then will contact Tobi on how to submit it to the board of directors and have it published.
+  We approve its current state and agree that Martino will seek Valentina's approval, then will contact Toby on how to submit it to the board of directors and have it published.
 
 ### Miscellanea
 - Sam: a [Collaborations Workshop](https://www.software.ac.uk/workshop/collaborations-workshop-2024-cw24) will be held soon, organized by the SSI (which is tightly connected to the UK Carpentries community).
