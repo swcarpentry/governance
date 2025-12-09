@@ -75,9 +75,13 @@ Toby Hodges, Director of Curriculum
 
 ### Current Members
 
-- Samantha Ahern (Co-chair)
-- Valentina Hurtado-McCormick (Co-chair)
-- Martino Sorbaro (Secretary)
+- Joey Bernard (Co-chair)
+- Sarah Stevens (Co-chair)
+- Deborah Udoh (Secretary)
+- Samantha Ahern
+- Aman Goel
+- Magnus Hagdorn
+- Martino Sorbaro
 
 [lpgc-handbook]: https://docs.carpentries.org/topic_folders/governance/lesson-program-governors.html
 [minutes]: ./minutes/
