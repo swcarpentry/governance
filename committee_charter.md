@@ -78,7 +78,6 @@ Toby Hodges, Director of Curriculum
 - Joey Bernard (Co-chair)
 - Sarah Stevens (Co-chair)
 - Deborah Udoh (Secretary)
-- Samantha Ahern
 - Aman Goel
 - Magnus Hagdorn
 - Martino Sorbaro
