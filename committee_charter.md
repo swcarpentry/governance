@@ -55,8 +55,10 @@ and succession planning for officer roles, are detailed in [the Lesson Program G
 
 ### Decision making process
 
-**LPGCs please discuss how you want to make decisions, 
-and add details in this section before the charter is submitted to the Executive Council for approval.**
+- Decisions are passed by a majority of the committee (present or not-present)
+- Members can vote in absence or remotely by sending their vote to the chair/co-chairs before or after the meeting
+- The chair/co-chair reserves the right to ask for a full committee vote (one vote from all members) on what they see as important decisions
+- The decision is subject to change based on a consensus vote from the committee
 
 ### Meetings
 
