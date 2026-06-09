@@ -55,7 +55,7 @@ and succession planning for officer roles, are detailed in [the Lesson Program G
 
 ### Decision making process
 
-- Decisions are passed by a majority of the committee (present or not-present)
+- Decisions are passed by a simple majority of the committee votes
 - Members can vote in absence by sending their vote to the chair/co-chairs before or after the meeting
 - The chair/co-chair reserves the right to ask for a full committee vote (one vote from all members) on what they see as important decisions
 - The decision is subject to change based on a consensus vote from the committee
